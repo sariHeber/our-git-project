@@ -2,7 +2,7 @@ import React from "react"
 
 export const Sari = () => {
     return (
-       <div style={{borderColor: 'green', borderStyle:'double'}}>
+       <div style={{borderColor: 'blue', borderStyle:'double'}}>
         <p>name: sari</p>
         <p>age: 22</p>
         <p>phone: 0548503880</p>
