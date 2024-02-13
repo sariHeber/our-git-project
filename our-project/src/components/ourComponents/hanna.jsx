@@ -1,6 +1,6 @@
 import React from "react"
 
-export const Sari = () => {
+export const Hanna = () => {
     return (
        <div style={{borderColor: 'blue', borderStyle:'double'}}>
         <p>name: hanna</p>
