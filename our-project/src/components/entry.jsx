@@ -1,5 +1,6 @@
 import React from 'react'
 import { Sari } from './ourComponents/sari'
+import { SarahLoriaa } from './ourComponents/sarahloria'
 
 export const Entry = () => {
 
@@ -7,6 +8,7 @@ export const Entry = () => {
         <>
         <p>holle!!!</p>
         <Sari></Sari>
+        <SarahLoriaa></SarahLoriaa>
         </>
     )
 }
