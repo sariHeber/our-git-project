@@ -6,6 +6,8 @@ export const Entry = () => {
     return (
         <>
         <p>holle!!!</p>
+        <p>i am hanna attali</p>
+        <p>i love you my friends</p>
         <Sari></Sari>
         </>
     )
